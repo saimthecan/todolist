@@ -10,7 +10,7 @@ Sample web app, created by HTML, CSS, JavaScript Demonstrating todo list, adding
 
 ### App Demo
 
-https://saimthecan.github.io/todolist.github.io/
+https://saimthecan.github.io/todolist/
 
 
 
